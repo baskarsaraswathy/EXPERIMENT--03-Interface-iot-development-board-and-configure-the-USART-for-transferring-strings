@@ -111,7 +111,7 @@ PUTCHAR_PROTOTYPE
 		return ch;
 
 }
-
+```
 
 ## Output screen shots of Serial port utility   :
  
